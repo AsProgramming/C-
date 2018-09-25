@@ -1,0 +1,5 @@
+﻿  UtilES.cpp
+c:\users\0704335\documents\visual studio 2015\projects\tp2\tp2\utiles.cpp(131): warning C4715: 'demanderMot' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\0704335\documents\visual studio 2015\projects\tp2\tp2\utiles.cpp(171): warning C4715: 'verifierSelection' : les chemins de contrôle ne retournent pas tous une valeur
+  TP2.vcxproj -> C:\Users\0704335\Documents\Visual Studio 2015\Projects\TP2\Debug\TP2.exe
+  TP2.vcxproj -> C:\Users\0704335\Documents\Visual Studio 2015\Projects\TP2\Debug\TP2.pdb (Partial PDB)

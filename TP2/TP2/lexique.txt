@@ -1,0 +1,27 @@
+Amorce : Programme necessaire a la mise en marche d'un ordinateur, et execute a chaque mise sous tension ou reinitialisation.
+Amorcer : Mettre en marche un ordinateur en provoquant l'execution de l'amorce.
+Bit : Information representee par un symbole a deux valeurs generalement notees 0 et 1, associees aux deux etats d'un dispositif.
+Bus : Dispositif non boucle destine a assurer simultanement les transferts d'information entre differents sous-ensembles d'un systeme informatique selon des specifications physiques et logiques communes.
+Clicher : Recopier le contenu, a un instant determine, de tout ou partie d'une memoire sur un autre support.  Anglais : to dump.
+Cliquer : Enfoncer et relacher le bouton-poussoir d'une souris ou d'un autre dispositif destine a deplacer un repere sur un ecran.  Anglais : to click.
+Genie informatique : Conception, realisation et validation des systemes informatiques.
+Instruction : Consigne exprimee dans un langage de programmation.  Anglais : instruction, statement.
+Mise en reseau : Constitution et exploitation d'un reseau informatique.  Voir aussi : reseau informatique.  Anglais : networking.
+Producteur : Dans le domaine des banques de donnees, designe celui qui les cree et les met a jour.Note : Le terme prestataire, incorrect dans ce sens, est a proscrire.
+Bogue : Defaut de conception ou de realisation se manifestant par des anomalies de fonctionnement.
+Configurer : Definir les sous-ensembles constituant un materiel ou un logiciel, ou agir sur leurs parametres pour en assurer la mise en oeuvre.
+Defilement : Deplacement vertical ou horizontal du contenu d'un ecran de visualisation a l'interieur d'une fenetre de telle façon que de nouvelles donnees apparaissent a un bord alors que d'autres disparaissent au bord oppose.Anglais : scrolling.
+Devideur : Derouleur de bande magnetique voue par construction a la creation en continu de sauvegardes des informations contenues dans un disque.Anglais : streamer.
+Mot-cle : Descripteur extrait du texte qu'il caracterise ou d'un thesaurus.  Anglais : keyword.
+Intelligence artificielle : Discipline relative au traitement par l'informatique des connaissances et du raisonnement.Anglais : artificial intelligence.
+Neurone formel : Dispositif a plusieurs entrees et une sortie qui modelise certaines proprietes du neurone biologique.  Note : La valeur de sortie du neurone formel est une fonction non lineaire, generalement a seuil, d'une combinaison de valeurs d'entree dont les coefficients de ponderation sont ajustables.  Anglais : artificial neurone.
+Manche a balai : Dispositif de commande a plusieurs degres de liberte servant a deplacer le curseur d'une visu.  Abreviation : manche.  Synonyme : poignee.  Anglais : joystick.
+Souris : Dispositif de commande tenu a la main, connecte a un ordinateur, et dont le deplacement sur une surface entraîne le deplacement d'un repere sur l'ecran.  Anglais : mouse.
+Photostyle : Dispositif d'entree que l'operateur pointe directement sur l'ecran d'une visu.  Anglais : light pen.
+Disquette : Disque magnetique souple, de dimensions et de capacite reduites.Anglais : diskette, floppy disk.
+Disque optique compact : Disque optique de grande capacite, a usage essentiellement documentaire.  Abreviation : doc.  Anglais : CD-ROM.
+Disque optique : Disque ou sont enregistrees des donnees lisibles par un procede optique.
+Disque magnetique : Disque recouvert d'une couche magnetique ou sont enregistrees des donnees.  Abreviation : disque.
+Listage : Document en continu produit par une imprimante d'ordinateur.  Action de lister.  Anglais : listing.
+Tirage : Document graphique resultant du transfert sur un support permanent d'une image presentee sur une visu.  Synonyme : facsim.  Anglais : hard copy.
+Pointeur : Donnee permettant de retrouver l'adresse d'un groupe de donnees.  Anglais : pointer.
