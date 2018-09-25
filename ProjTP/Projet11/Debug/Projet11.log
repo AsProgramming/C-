@@ -1,0 +1,13 @@
+﻿  PileCartes.cpp
+  NoueudJoueur.cpp
+  NoeudCarte.cpp
+  Main.cpp
+c:\users\0704335\videos\tp1\projtp\projet11\main.cpp(335): warning C4101: 'm' : variable locale non référencée
+  ListeJoueurs.cpp
+  Joueur.cpp
+  Carte.cpp
+  Génération de code en cours...
+c:\users\0704335\videos\tp1\projtp\projet11\main.cpp(322): warning C4172: retourne l'adresse d'une variable locale ou : liste temporaire
+  LINK : C:\Users\0704335\Videos\TP1\ProjTP\Debug\Projet11.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  Projet11.vcxproj -> C:\Users\0704335\Videos\TP1\ProjTP\Debug\Projet11.exe
+  Projet11.vcxproj -> C:\Users\0704335\Videos\TP1\ProjTP\Debug\Projet11.pdb (Partial PDB)
